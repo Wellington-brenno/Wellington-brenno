@@ -3,17 +3,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=yellow&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=yellow&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=wellingtonbrenno&show_icons=true&theme=yellow&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonbrenno&layout=compact&theme=yellow&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/seu-usuario/seu-repositorio/output/snake-yellow.svg" alt="Snake animation" />
-
-
-
-
-
+<img src="https://raw.githubusercontent.com/wellingtonbrenno/repo/output/snake.svg" alt="Snake animation" />
